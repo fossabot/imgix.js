@@ -1,5 +1,6 @@
 <!-- ix-docs-ignore -->
 ![imgix logo](https://assets.imgix.net/sdk-imgix-logo.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fimgix%2Fimgix.js.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fimgix%2Fimgix.js?ref=badge_shield)
 
 `imgix.js` is a dependency-free JavaScript library for the browser that allows for easy integration of [imgix](https://www.imgix.com) into websites.
 
@@ -388,3 +389,7 @@ imgix.config.includeLibraryParam = false;
 ## Meta
 
 `imgix.js` was made by [imgix](http://imgix.com). It's licensed under the BSD 2-Clause license (see the [license file](https://github.com/imgix/imgix.js/blob/main/LICENSE.md) for more info). Any contribution is absolutely welcome, but please review the [contribution guidelines](https://github.com/imgix/imgix.js/blob/main/CONTRIBUTING.md) before getting started.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fimgix%2Fimgix.js.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fimgix%2Fimgix.js?ref=badge_large)
